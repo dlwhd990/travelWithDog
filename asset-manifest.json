@@ -1,12 +1,22 @@
 {
   "files": {
-    "main.css": "/travelWithDog/static/css/main.a2e8aca1.css",
-    "main.js": "/travelWithDog/static/js/main.dce7b1a8.js",
+    "main.css": "/travelWithDog/static/css/main.e082daad.css",
+    "main.js": "/travelWithDog/static/js/main.5809ccd1.js",
     "static/media/top_banner.png": "/travelWithDog/static/media/top_banner.bf80bcecf8f52945173a.png",
     "static/media/rentcar_banner.png": "/travelWithDog/static/media/rentcar_banner.d4c0fac5b831226a4ffa.png",
+    "static/media/article_example.png": "/travelWithDog/static/media/article_example.c97fc6ee4e302b041d9f.png",
     "static/media/main_bottom.png": "/travelWithDog/static/media/main_bottom.e46f946945e6b15eaeda.png",
     "static/media/example.jpeg": "/travelWithDog/static/media/example.8b869976dfac852dd181.jpeg",
+    "static/media/glyphicons-halflings-regular.svg": "/travelWithDog/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
     "static/media/main_bottom_mobile.png": "/travelWithDog/static/media/main_bottom_mobile.e10a9bc05df4a05c18a0.png",
+    "static/media/glyphicons-halflings-regular.ttf": "/travelWithDog/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/travelWithDog/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/travelWithDog/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/travelWithDog/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "static/media/summernote.eot": "/travelWithDog/static/media/summernote.bd0d8be1fbad3612dfe1.eot",
+    "static/media/summernote.ttf": "/travelWithDog/static/media/summernote.b293d601cf1cddd1a1b4.ttf",
+    "static/media/summernote.woff": "/travelWithDog/static/media/summernote.08c343ff91f188dfc1a7.woff",
+    "static/media/summernote.woff2": "/travelWithDog/static/media/summernote.7c9436ed8d2deac04e37.woff2",
     "static/media/slick.svg": "/travelWithDog/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/travelWithDog/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/travelWithDog/static/media/slick.c94f7671dcc99dce43e2.ttf",
@@ -14,7 +24,7 @@
     "index.html": "/travelWithDog/index.html"
   },
   "entrypoints": [
-    "static/css/main.a2e8aca1.css",
-    "static/js/main.dce7b1a8.js"
+    "static/css/main.e082daad.css",
+    "static/js/main.5809ccd1.js"
   ]
 }
