@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/travelWithDog/static/css/main.fe274ca1.css",
-    "main.js": "/travelWithDog/static/js/main.245b77ec.js",
+    "main.css": "/travelWithDog/static/css/main.5802ab6b.css",
+    "main.js": "/travelWithDog/static/js/main.1830838d.js",
     "static/media/top_banner.png": "/travelWithDog/static/media/top_banner.bf80bcecf8f52945173a.png",
     "static/media/rentcar_banner.png": "/travelWithDog/static/media/rentcar_banner.d4c0fac5b831226a4ffa.png",
     "static/media/main_bottom.png": "/travelWithDog/static/media/main_bottom.e46f946945e6b15eaeda.png",
@@ -12,11 +12,11 @@
     "static/media/slick.ttf": "/travelWithDog/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/travelWithDog/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/travelWithDog/index.html",
-    "main.fe274ca1.css.map": "/travelWithDog/static/css/main.fe274ca1.css.map",
-    "main.245b77ec.js.map": "/travelWithDog/static/js/main.245b77ec.js.map"
+    "main.5802ab6b.css.map": "/travelWithDog/static/css/main.5802ab6b.css.map",
+    "main.1830838d.js.map": "/travelWithDog/static/js/main.1830838d.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe274ca1.css",
-    "static/js/main.245b77ec.js"
+    "static/css/main.5802ab6b.css",
+    "static/js/main.1830838d.js"
   ]
 }
