@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/travelWithDog/static/css/main.e694c060.css",
-    "main.js": "/travelWithDog/static/js/main.3c2a32dc.js",
+    "main.css": "/travelWithDog/static/css/main.5dada35c.css",
+    "main.js": "/travelWithDog/static/js/main.a8f57a20.js",
     "static/media/top_banner.png": "/travelWithDog/static/media/top_banner.bf80bcecf8f52945173a.png",
-    "static/media/rentcar_banner.png": "/travelWithDog/static/media/rentcar_banner.d4c0fac5b831226a4ffa.png",
     "static/media/main_bottom.png": "/travelWithDog/static/media/main_bottom.e46f946945e6b15eaeda.png",
     "static/media/glyphicons-halflings-regular.svg": "/travelWithDog/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
     "static/media/main_bottom_mobile.png": "/travelWithDog/static/media/main_bottom_mobile.e10a9bc05df4a05c18a0.png",
@@ -22,7 +21,7 @@
     "index.html": "/travelWithDog/index.html"
   },
   "entrypoints": [
-    "static/css/main.e694c060.css",
-    "static/js/main.3c2a32dc.js"
+    "static/css/main.5dada35c.css",
+    "static/js/main.a8f57a20.js"
   ]
 }
